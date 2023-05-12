@@ -5,4 +5,3 @@ app = create_app()
 if __name__ == '__main__':  #only if we run this file, we will execute the next line
     app.run(debug=True)   #run the application, any change will automically rerun 
     
-    
